@@ -139,7 +139,7 @@ header .navbar-toggle {
 #palybox {
 	width: 100%;
 	height: 224px;
-	background: url(../img/video.jpg);
+	background: url(https://cdn.jsdelivr.net/gh/ming6666/V2I0P/img/video.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
